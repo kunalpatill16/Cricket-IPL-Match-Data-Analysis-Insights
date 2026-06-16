@@ -7,7 +7,7 @@ An interactive IPL Cricket Analytics Dashboard developed using Python, Streamlit
 
 The original IPL dataset (`IPL.csv`) used in this project was larger than GitHub's maximum file size limit (100 MB). Therefore, the dataset has not been uploaded to this repository.
 
-To run this project successfully, please download the dataset from Kaggle and the link provided below and place it in the project root directory.
+To run this project successfully, please download the dataset from Kaggle or the link provided below and place it in the project root directory.
 
 Dataset Link:
 [https://www.kaggle.com/code/arbazkhan971/indian-premier-league-analysis-2008-2025/notebook]
